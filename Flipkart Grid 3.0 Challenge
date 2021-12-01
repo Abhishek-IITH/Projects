@@ -1,0 +1,4 @@
+Autonomous Navigation of warehouse robots (Flipkart Grid 3.0 Challenge)-
+  1. Built 4 UGV bots for navigating across a predefined path in a relay fashion.
+  2. Used A* algorithm for path detection and Stanley control logic for path tracking.
+  3. Developed a central navigation system using a central phone camera for initial bot detection and constraint estimation.
