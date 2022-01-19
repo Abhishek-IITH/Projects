@@ -1,8 +1,7 @@
 # Projects
   1. Beacon tracking
 
-      [ Developed RSSI based beacon tracking system using robotic car for autonomous navigation 
-        [ML algorithm KNN used & got 77% accuracy on test data].]
+      [ Developed RSSI based beacon tracking system using robotic car for autonomous navigation [ML algorithm KNN used & got 77% accuracy on test data].]
         
   3. Cell counting (Image Processing)
  
